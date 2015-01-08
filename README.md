@@ -5,14 +5,14 @@
 
 ### OpenCart Settings
 
-1. Download the 2Checkout payment module from https://github.com/craigchristenson/opencart-2checkout
+1. Download the 2Checkout payment module from https://github.com/zvuong/opencart2-2checkout
 2. Upload the files to your OpenCart directory.
 3. Sign in to your OpenCart admin.
 4. Click **Extensions** tab and **Payments subtab**.
 5. Under **2Checkout** click **Install** and then click **Edit**.
 6. Enter your **2Checkout Account ID**. _(2Checkout Account Number)_
-7. Select **No** under **Test Mode**.
-8. Select **Yes** under **Checkout Display** if you want to use Inline Checkout.
+7. Select **No** under **Demo Mode**.
+8. Select **Yes** under **Enable Inline Checkout** if you want to use Inline Checkout.
 9. Select **Complete** under **Order Status**.
 10. Select **Enabled** under **Status**.
 11. Enter your **Secret Word** _(Must be the same value entered on your 2Checkout Site Management page.)_
